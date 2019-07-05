@@ -1,13 +1,8 @@
 # mall
 
-<p>
-  <a href="#公众号"><img src="#" alt="公众号"></a>
-  <a href="https://github.com/macrozheng/mall-learning"><img src="#" alt="学习教程"></a>
-  <a href="https://github.com/macrozheng/mall-admin-web"><img src="#" alt="前端项目"></a>
-  <a href="http://qm.qq.com/cgi-bin/qm/qr?k=V6xu5c12j9qhnMUNdDRzakNxRKzOxibQ"><img src="#" alt="QQ群"></a>
-  <a href="http://qm.qq.com/cgi-bin/qm/qr?k=M5Edq2TiJL_ShcOEeYjwcmdGmq4zZrd_"><img src="#" alt="QQ群"></a>
-  <a href="https://gitee.com/macrozheng/mall"><img src="#" alt="码云"></a>
-</p>
+
+  [博客](#english) |[公众号](#english) |[QQ群](#english) |[码云](#english) |
+
 
 ## 前言
 
